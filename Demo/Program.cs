@@ -284,7 +284,7 @@ namespace Demo
             #region Function returns function
             //var X = Fun01();
             //X.Invoke();
-            //Fun01()(); 
+            //Fun01()();  
             #endregion
 
         }
